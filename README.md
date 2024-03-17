@@ -20,6 +20,22 @@ Segment Name: Young Urbanites
 * Income Level: Customers in this segment have a mean income level of $40,000, with a standard deviation of $8,000, suggesting a broader income range compared to Segment 0.
 * Coverage Amount: The average coverage amount for insurance policies among customers in this segment is $300,000, with a standard deviation of $40,000, indicating varying preferences for coverage levels.
 * Premium Amount: On average, customers in this segment pay a premium of $1500, with a standard deviation of $300, reflecting some variability in premium payments.
+
+## Segment Profiles Based on Marital Status:
+### Segment 0:
+Segment Name: Established Professionals
+
+Characteristics:
+
+* Married: Customers in this segment, who are married, have a mean age of 42 and a mean income level of $65,000. They tend to prefer higher coverage amounts and pay premiums averaging $2100.
+* Single: Single customers in this segment are slightly younger, with a mean age of 38, and have a lower income level of $55,000. They opt for lower coverage amounts and pay premiums averaging $1800.
+### Segment 1:
+Segment Name: Young Urbanites
+
+Characteristics:
+
+* Married: Married customers in this segment have a mean age of 32 and a mean income level of $45,000. They exhibit varying preferences for coverage amounts and pay premiums averaging $1600.
+* Single: Single customers in this segment are younger, with a mean age of 28, and have a lower income level of $35,000. They also show variability in coverage preferences and pay premiums averaging $1400.
 ## Insights:
 
 #### Targeted Marketing Strategies:
