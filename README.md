@@ -44,7 +44,9 @@ Characteristics:
 * Young Urbanites: Develop marketing strategies that resonate with younger urban demographics. Focus on affordability, flexibility, and features that cater to their dynamic lifestyles.
 Product Customization:
 
-#### Segment-Specific Offerings *: Design insurance products and services that cater to the specific preferences and needs of each segment. Offer customizable coverage options and pricing plans tailored to different income levels and age groups.
+#### Segment-Specific Offerings: 
+* Design insurance products and services that cater to the specific preferences and needs of each segment.
+* Offer customizable coverage options and pricing plans tailored to different income levels and age groups.
 #### Customer Retention Initiatives:
 
 * Established Professionals: Implement loyalty programs or rewards tailored to long-term policyholders. Provide incentives for referrals and offer personalized renewal packages based on individual coverage needs.
